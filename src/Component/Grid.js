@@ -120,7 +120,7 @@ class Grid extends Component {
                     <th scope="col">Name</th>
                     <th scope="col">Age</th>
                     <th scope="col">City</th>
-                    <th scope="col">Delete Action</th>
+                    <th scope="col">Delete column</th>
                   </tr>
                 </thead>
                 <tbody>
